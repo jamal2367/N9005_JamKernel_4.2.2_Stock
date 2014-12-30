@@ -2,7 +2,7 @@ VERSION = 3
 PATCHLEVEL = 4
 SUBLEVEL = 0
 EXTRAVERSION =
-NAME = JamKernel-v3.0
+NAME = JamKernel-v3.1
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
